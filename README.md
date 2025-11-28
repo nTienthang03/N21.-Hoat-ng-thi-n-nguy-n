@@ -154,6 +154,59 @@ Các tổ chức gặp khó khăn trong tuyển chọn, quản lý số lượng
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b581d96-86e8-47f3-9253-ee59e23f0745" />
 
 
+# 5. Kết quả đạt được, Hạn chế và Đánh giá hệ thống
+
+## 5.1. Những kết quả đạt được
+
+Hệ thống quản lý tình nguyện viên đã được xây dựng và vận hành thành công, đáp ứng đầy đủ các yêu cầu chức năng và hỗ trợ toàn diện cho các nhóm người dùng:
+
+- **Guest**: Xem danh sách hoạt động, tìm kiếm theo lĩnh vực/vị trí và đăng ký tài khoản.
+- **Tình nguyện viên (Volunteer)**:  
+  Đăng nhập, cập nhật hồ sơ, tìm kiếm – đăng ký hoạt động, điểm danh QR (check-in/check-out), nhận huy hiệu – điểm uy tín và đánh giá tổ chức. Toàn bộ quy trình được tự động hóa và minh bạch.
+- **Tổ chức (Organization)**:  
+  Tạo và quản lý hoạt động, duyệt tình nguyện viên, theo dõi tiến độ, ghi nhận giờ công, đánh giá TNV và thống kê hoạt động.
+- **Admin**:  
+  Kiểm duyệt tài khoản tổ chức, duyệt hoạt động, quản lý người dùng – danh mục, thống kê tổng hợp và giám sát toàn hệ thống.
+
+Hệ thống có giao diện trực quan, thao tác mượt mà trên web/mobile, kèm các tính năng tự động như thông báo, trao huy hiệu, nhắc lịch tham gia. Điều này giúp nâng cao trải nghiệm và hiệu quả quản lý.
+
+---
+
+## 5.2. Những hạn chế và hướng cải tiến
+
+Mặc dù hệ thống hoạt động ổn định và hoàn thiện về chức năng cơ bản, vẫn tồn tại một số hạn chế:
+
+### **Hạn chế**
+- **Hiệu suất xử lý**:  
+  Khi số lượng tổ chức và người dùng tăng cao, tốc độ phản hồi có thể giảm.  
+- **Bảo mật cần nâng cao**:  
+  Cần bổ sung mã hóa dữ liệu, giám sát truy cập, cơ chế chống tấn công và bảo vệ quyền riêng tư.
+
+### **Hướng cải tiến**
+- Tối ưu cơ sở dữ liệu, sử dụng caching và triển khai mô hình phân tán để tăng hiệu suất.  
+- Phát triển hệ thống gợi ý thông minh và giao diện cá nhân hóa.  
+- Xây dựng module báo cáo nâng cao bằng phân tích dữ liệu.  
+- Củng cố bảo mật với các chuẩn hiện đại và quy trình giám sát liên tục.
+
+---
+
+## 5.3. Đánh giá tổng quan hệ thống
+
+Hệ thống đã vận hành ổn định, đáp ứng đúng yêu cầu nghiệp vụ và mang lại trải nghiệm thuận tiện cho tất cả tác nhân. Các chức năng như quản lý hoạt động, điểm danh QR, thống kê cơ bản, huy hiệu tự động và thông báo đều hoạt động hiệu quả.
+
+Sự phối hợp giữa các phần trong hệ thống diễn ra liền mạch, giúp tối ưu quy trình quản lý tình nguyện viên và hỗ trợ rõ ràng cho các tổ chức.
+
+Hệ thống cũng có tiềm năng mở rộng mạnh mẽ trong tương lai thông qua:
+- tối ưu hiệu suất,
+- nâng cấp trải nghiệm cá nhân hóa,
+- tăng cường bảo mật,
+- phát triển báo cáo phân tích thông minh.
+
+---
+
+## ✔ Kết luận
+
+Hệ thống quản lý tình nguyện viên đã đạt được mục tiêu đề ra, mang lại nền tảng ổn định – minh bạch – hiệu quả. Đây là cơ sở vững chắc để tiếp tục cải tiến, mở rộng tính năng và phát triển thành một hệ thống toàn diện, thông minh và bền vững trong tương lai.
 
 
 
