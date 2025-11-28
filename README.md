@@ -129,5 +129,34 @@ Các tổ chức gặp khó khăn trong tuyển chọn, quản lý số lượng
 - Quản lý phân quyền người dùng.  
 - Bảo mật dữ liệu cá nhân và hoạt động.  
 - Giám sát hệ thống và theo dõi lịch sử thao tác.
+---
+
+# 📌 Kết quả 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93ad5287-6b99-4c3f-87c3-fbf03c4af548" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56d60f40-9074-4e23-918d-4e037a0de3c7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07c6fef9-3fc5-4246-adf1-5b1f933ec12b" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3f85120-478c-420b-b235-1a2efeb6996c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21260986-0a41-4431-a13b-ba0543221574" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95f49919-8976-440c-82dd-52a20bc47f08" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef59bea9-ef56-41d1-8f31-dda27de79d86" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0dc3d022-fb09-4a89-b094-07aa03048237" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b581d96-86e8-47f3-9253-ee59e23f0745" />
+
+
+
+
+
+
 
 
